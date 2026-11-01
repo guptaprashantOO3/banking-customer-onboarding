@@ -1,4 +1,10 @@
+
+
 # Banking Customer Onboarding – CKYC Service Virtualization
+
+<img width="1536" height="1024" alt="Banking Customer Onboarding README Infographic" src="https://github.com/user-attachments/assets/d288aaf5-d002-4b45-9b1a-b095c52fefa2" />
+
+
 
 A Spring Boot-based banking customer onboarding application that integrates with an external **Central KYC (CKYC) service** using REST APIs. The external CKYC dependency is simulated using **WireMock**, enabling reliable development and integration testing without depending on a live external banking service.
 
